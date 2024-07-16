@@ -13,6 +13,12 @@ quiz_questions = [
         "options": ["A) 3", "B) 4", "C) 5", "D) 22"],
         "answer": "B"
     },
+
+    {
+        "question": "What is 5 + 3?",
+        "options": ["A) 8", "B) 2", "C) 1", "D) 23"],
+        "answer": "A"
+    },
     # Learners can add more questions here following the same structure
 ]
 
